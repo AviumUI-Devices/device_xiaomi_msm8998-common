@@ -337,6 +337,9 @@ vendor/etc/init/android.hardware.drm-service.widevine.rc|54c79ef531c9c135fa234a8
 vendor/etc/vintf/manifest/manifest_android.hardware.drm-service.widevine.xml|7e13b6628572b1cdd76351b744e2805d4e6f2dd9
 vendor/lib/libwvaidl.so|39b55a8d55752542c0cc3965a9acbf0fc37f09cf
 
+# Euicc - from unknown
+system/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
+
 # Gatekeeper - from Zebra helios-user-14-14-23-05.00-UG-U05-STD-HEL-04-5-release-keys
 vendor/lib64/hw/gatekeeper.sdm660.so:vendor/lib64/hw/gatekeeper.msm8998.so;FIX_SONAME|d760257a98254b9e87ae258e267b1a45a0ed7ecb|58063798ec6d09925915f45f08985def09e08121
 
